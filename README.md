@@ -1,2 +1,2 @@
-# dojo-chat
+# chat-vote
 # can I help?
